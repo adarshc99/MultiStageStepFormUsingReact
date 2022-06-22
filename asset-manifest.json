@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adarshc99/MultiStageStepFormUsingReact/static/css/main.38be36b0.css",
+    "main.js": "/adarshc99/MultiStageStepFormUsingReact/static/js/main.fc40f480.js",
+    "static/js/787.4f535e22.chunk.js": "/adarshc99/MultiStageStepFormUsingReact/static/js/787.4f535e22.chunk.js",
+    "index.html": "/adarshc99/MultiStageStepFormUsingReact/index.html",
+    "main.38be36b0.css.map": "/adarshc99/MultiStageStepFormUsingReact/static/css/main.38be36b0.css.map",
+    "main.fc40f480.js.map": "/adarshc99/MultiStageStepFormUsingReact/static/js/main.fc40f480.js.map",
+    "787.4f535e22.chunk.js.map": "/adarshc99/MultiStageStepFormUsingReact/static/js/787.4f535e22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.fc40f480.js"
+  ]
+}
